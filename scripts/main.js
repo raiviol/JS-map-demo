@@ -709,7 +709,6 @@ widgets: {
 async function main() {
     // Event data from citytrack app
     const dataFile = 'fake_data.csv';
-    //const dataFile = 'file:///home/leevi/Documents/CT_Demos/map_demo/feikkidata.csv'
 
     // ------ HTML elements ------
     const mapContainer = document.getElementById('mapContainer');

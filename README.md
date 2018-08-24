@@ -20,6 +20,8 @@ module.exports =
 ```
 Where {YOUR_APP_ID} and {YOUR_APP_CODE} are the credentials you got from the previous step.
 
+Run the demo by opening index.html in a browser. Tested on Mozilla Firefox, in ubuntu 16.04.
+
 A randomly generated data file is provided, however, if you wish to use your own data,
 create a .csv -file with same fields as in 'fake_data.csv', and modify const dataFile
 at main.js main function to point to your file.
